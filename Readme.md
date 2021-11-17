@@ -1,1 +1,1 @@
-Esse repositório contém todos os meus exercícios e experiências realizado durante o Curso de Algoritmo do Curso em Video.
+Esse repositório contém todos os meus exercícios e experiências realizado durante o Curso de Algoritmo do Curso em Video. :)
